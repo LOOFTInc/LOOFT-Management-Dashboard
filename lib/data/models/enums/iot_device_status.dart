@@ -1,0 +1,4 @@
+enum IoTDeviceStatus {
+  online,
+  offline,
+}

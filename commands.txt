@@ -1,0 +1,4 @@
+dart run build_runner build
+
+flutter build web --no-tree-shake-icons
+firebase deploy --only hosting:looft-dashboard-dev

@@ -54,8 +54,9 @@ Android Studio
 2. Open the project in Android Studio.
 3. Add Your Firebase Configuration to the project following the instructions [here](https://firebase.google.com/docs/flutter/setup?platform=web).
 4. Update Maps API Key in lib/constants.dart & web/index.html. Make sure that your API key has access to the required APIs in the GCloud console (Geocoding API, Maps Embeded API, Maps Javascript API and Places API).
-5. Setup the Firebase Directory Structure following the IoT Data Structure pdf.
-6. Firebase Firestore Roles explains the permission management.
+5. Setup the Firebase Directory Structure following [IoT Data Structure.pdf](https://github.com/LOOFTInc/LOOFT-Management-Dashboard/blob/main/IoT%20Data%20Structure.pdf).
+6. Setup User Roles with [Custom Claims](https://firebase.google.com/docs/auth/admin/custom-claims) following [Firebase Firestore Roles.pdf](https://github.com/LOOFTInc/LOOFT-Management-Dashboard/blob/main/Firebase%20Firestore%20Roles.pdf).
+7. You will also need to setup Cloud functions from this [repository](https://github.com/LOOFTInc/LOOFT-IoT-Dashboard-Functions) for all the functionalities to work.
 
 If you need more help feel free to contact us.
 
@@ -67,6 +68,8 @@ run 'main.dart'
 For details about the project you can check this dart generated [documentation](https://looft-dashboard-doc.web.app/).
 
 If you need help getting started with Flutter please visit the [Flutter](https://docs.flutter.dev/get-started/install) website.
+
+_Note: The Code in this repository is for [personal use only](https://github.com/LOOFTInc/LOOFT-Management-Dashboard/blob/main/LICENSE), if you want to use our product commercially or need a fully functional dashboard, feel free to contact us at [info@joinlooft.com](mailto:info@joinlooft.com)_
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Flutter](https://flutter.dev/) - Framework

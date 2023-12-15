@@ -77,7 +77,7 @@ _Note: The Code in this repository is for [personal use only](https://github.com
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@awais-amjed](https://github.com/awais-amjed) - Full Stack Developer
-- [@Saad-Imtiaz](https://github.com/Saad-Imtiaz) - UI Designer & IoT Developer
+- [@Saad-Imtiaz](https://github.com/Saad-Imtiaz) - Engineering Lead, UI Designer & IoT Developer
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - [LOOFT Inc.](https://github.com/LOOFTInc)
